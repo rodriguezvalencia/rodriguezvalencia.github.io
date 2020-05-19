@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Designing Data-Intensive Applications - una reseña"
+date:   2020-05-19 17:37:02 +0100
+categories: Reseña
+---
+
 Designing Data-Intensive Applications - una reseña
 ---
 
