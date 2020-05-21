@@ -1,0 +1,21 @@
+body {
+  padding: 0px;
+}
+
+header {
+  height: 100%;
+  padding-top: 10%;
+  margin-top: 0px;
+}
+
+.social-button {
+  width: 16px;
+  display: inline;
+  padding: 10px 12px 10px 12px;
+}
+
+@media screen and (min-width: 960px) {
+  footer {
+    color: #868484;
+  }
+}
